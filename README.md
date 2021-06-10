@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanam-luffy&label=Profile%20views&color=0e75b6&style=flat" alt="sanam-luffy" /> </p>
 
-- 🔭 I’m currently working on **open source porjects.**
+- 🔭 I’m currently working on **open source projects.**
 
 - 🌱 I’m currently learning **Bootstrap, Web Design**
 
